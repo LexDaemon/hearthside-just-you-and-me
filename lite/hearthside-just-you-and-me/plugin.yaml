@@ -1,0 +1,12 @@
+name: hearthside-just-you-and-me
+version: 1.0.0
+manifest_version: 2
+api_version: 1
+description: A shared room with Nori, a focus garden, and study tools.
+python_dependencies:
+- zstandard>=0.23,<1
+- fsrs==6.3.2
+- fsrs-rs-python==0.9.3
+- regex==2026.9.29
+requires_hermes: '>=0.22.5'
+capabilities: []

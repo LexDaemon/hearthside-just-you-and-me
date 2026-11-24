@@ -1,0 +1,170 @@
+Hearthside Source-Available License 1.0
+
+Copyright (c) 2026 Lex Daemon.
+
+1. SCOPE AND DEFINITIONS
+
+“Licensor” means Lex Daemon, to the extent the relevant rights are held or
+controlled by that author. “You” includes individuals and organizations.
+“Covered Material” means the Hearthside: Just You and Me code, documentation,
+artwork, character/story material, and other files made available under this
+license, together with your modifications of those materials. It does not
+include material expressly provided under a separate license or material over
+which the Licensor has no exclusive rights. “Fork” means a modified distribution
+of Covered Material, whatever its name. Changing a name does not change these
+terms.
+
+Third-party components and files with their own license notices retain those
+licenses. Their permissions are not reduced by this license. See
+THIRD_PARTY_NOTICES.md and the notices accompanying each component. No ownership
+of third-party material, public-domain material, or your independently created
+content is asserted by this license.
+
+This is a source-available license with restrictions on monetizing the software,
+not the MIT License, an OSI-approved open-source license, or a restriction on
+using the tool in paid professional work.
+
+2. PERMISSIONS
+
+Subject to the conditions below, the Licensor grants you a worldwide,
+non-exclusive, royalty-free copyright license, for the duration of the relevant
+rights, to use, run, study, copy, display, modify, and distribute Covered Material
+and Forks free of charge.
+
+Personal, educational, research, and professional use are permitted, including
+use by a business or organization and use in work for which you are paid. You
+may self-host for yourself and for internal use by your organization. You may
+also provide a free hosted instance, subject to the same conditions.
+
+You need not publish private modifications. Redistribution must satisfy section
+3. This license does not impose its terms on unrelated software merely because
+it interoperates with Hearthside through an interface.
+
+3. FREE REDISTRIBUTION AND ATTRIBUTION
+
+For every redistribution, including a Fork or a hosted instance offered to
+others:
+
+(a) Do not charge for Covered Material, access to it, or its functionality,
+except for the genuinely voluntary support expressly allowed in section 5.
+
+(b) Include this license and preserve applicable copyright, license, attribution,
+and third-party notices. Keep them reasonably accessible to recipients or hosted
+users. Do not imply that third-party components have been relicensed.
+
+(c) Identify the origin as Hearthside: Just You and Me by Lex Daemon. Clearly
+identify material modifications and who maintains the Fork. Do not present a
+modified or unaffiliated distribution as an official release or endorsement.
+
+(d) Keep Covered Material and modifications of it under these terms. Do not add
+terms that remove the permissions granted here. Separately authored, independent
+components may have their own compatible terms; this does not authorize
+relicensing third-party components or restricting their existing permissions.
+
+No public repository, publication of private changes, or disclosure of your
+personal data is required merely to use the software.
+
+4. PROHIBITED SOFTWARE MONETIZATION
+
+Unless the Licensor gives you separate written permission, you must not:
+
+(a) Sell or license for a fee copies of Covered Material or a Fork, including
+renamed copies, paid downloads, asset packs, and paid bundles in which the
+software or its bundled assets are part of what the buyer purchases.
+
+(b) Charge for access to a hosted instance or for its software functionality,
+including subscriptions, usage fees, paid seats, unlocks, premium features,
+exclusive builds, paid updates, or access through an API or another interface.
+Charging only to recover hosting costs does not create an exception.
+
+(c) Monetize a distribution or hosted instance through advertising, mandatory
+sponsorship, paid placement, or similar consideration tied to providing or using
+the software. A payment is not voluntary merely because it is called a donation.
+
+(d) Sell or license the bundled artwork, character/story material, or other
+Covered Material as standalone commercial products or merchandise. This does
+not reduce the output and media permissions in section 6.
+
+You may charge for independent professional work and human services such as
+training, installation, or support, provided the charge is genuinely for that
+work or service and is not a disguised software, Fork, access, feature, or update
+fee. You may not make payment for such a service a condition of obtaining or
+using an otherwise free distribution.
+
+5. VOLUNTARY DONATIONS AND SPONSORSHIP
+
+The original project and maintainers of free Forks may request and receive
+voluntary donations, tips, and sponsorship, including recurring support, when:
+
+(a) Payment is genuinely optional and is not required to obtain, install, access,
+or use the software or its available features, builds, and updates.
+
+(b) Support does not buy exclusive software access, features, builds, updates,
+a license exception, or other software entitlements unavailable to non-payers.
+
+(c) The funding recipient and any Fork's independent status are clearly stated.
+Do not collect money while implying that it goes to the original author unless
+that is true, or implying official affiliation without permission.
+
+(d) Funding is not a disguised sale, required membership, advertising deal, or
+paid-access arrangement prohibited by section 4.
+
+Redistribution may retain the original project's included optional support and
+referral links without implying an official affiliation. A support link or
+acknowledgement of a voluntary supporter is not, by itself, prohibited advertising. Independent third-party model, API, or payment-provider
+fees are not Hearthside license fees; those providers retain their own terms.
+
+6. YOUR WORK, OUTPUTS, AND PUBLICATIONS
+
+You retain your rights in your inputs, data, and independently created outputs.
+You may publish, license, or sell reports, notes, research, lessons, creative
+work, and other work produced merely by using Hearthside, including AI-assisted
+work. Use of the tool alone does not place that work under this license or
+require a royalty or attribution.
+
+Copies or adaptations of bundled Covered Material do not cease to be Covered
+Material merely by being exported, placed in an output, or given a different
+name. Third-party and other existing rights in incorporated material remain.
+
+You may publish and monetize videos, streams, screenshots, reviews, tutorials,
+and commentary showing ordinary use of Hearthside. Give reasonable credit when
+practicable. This permission does not authorize selling the underlying software,
+its bundled assets, or paid access to a Fork.
+
+7. NAMES, MARKS, AND ENDORSEMENT
+
+You may use the project name to identify its origin and accurately describe your
+use or Fork. No broader trademark right, official status, certification, or
+endorsement is granted. Preserve third-party trademark and attribution notices.
+Nothing here authorizes use of another person's identity or private information.
+
+8. TERMINATION AND EXISTING COPIES
+
+Your permissions terminate if you materially violate these conditions. If you
+cure a first violation within 30 days after receiving written notice of it,
+your permissions are reinstated prospectively. This does not excuse the past
+violation or reinstate permissions for repeated violations without the
+Licensor's written agreement. Recipients who received copies in compliance with
+this license do not lose their own permissions solely because you violated it.
+
+Compliant permissions for a copy already received are not retroactively revoked
+by a later license change. A future release or separate written agreement may
+have different terms. Merely proposing a contribution does not transfer
+ownership or authorize relicensing; contribution terms require agreement.
+
+9. NO WARRANTY; LIMITATION OF LIABILITY
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, COVERED MATERIAL IS PROVIDED “AS IS”,
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE LICENSOR AND
+CONTRIBUTORS ARE NOT LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM
+ITS USE OR DISTRIBUTION, INCLUDING DATA LOSS, BUSINESS INTERRUPTION, OR RELIANCE
+ON GENERATED CONTENT, WHETHER IN CONTRACT, TORT, OR OTHERWISE.
+
+This does not exclude rights or liability that applicable law does not allow to
+be excluded. If a provision cannot be enforced, the remaining provisions remain
+effective to the extent allowed by law; an invalid provision does not grant
+rights the Licensor did not otherwise grant. Statutory rights and exceptions
+that apply independently of this license are unaffected.
+
+END OF TERMS

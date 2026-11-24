@@ -1,0 +1,14 @@
+{
+  "name": "MathJax",
+  "version": "3.2.2",
+  "license": "Apache-2.0",
+  "npm_package": "mathjax-full",
+  "upstream": "https://github.com/mathjax/MathJax-src/tree/3.2.2",
+  "renderer_bundle_sha256": "3ce7cac7910da022fe9ef2fabdf0b713d488fc70d4c2c6acf72ba7c6c59560c7",
+  "integration": "Modular TeX-to-SVG engine in desktop/plugin.js; no scripts in the preview frame",
+  "tarball": {
+    "url": "https://registry.npmjs.org/mathjax-full/-/mathjax-full-3.2.2.tgz",
+    "sha256": "d8f080d2e4bdfb75284aac34d5eff155002eca47798b1d4e4bde31453e653f87",
+    "integrity": "sha512-+LfG9Fik+OuI8SLwsiR02IVdjcnRCy5MufYLi0C3TdMT56L/pjB0alMVGgoWJF8pN9Rc7FESycZB9BMNWIid5w=="
+  }
+}

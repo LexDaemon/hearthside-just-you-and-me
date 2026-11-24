@@ -1,0 +1,11 @@
+{
+  "name": "hermes-defuddle-local",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Local, no-third-party-fallback Defuddle runner for Hermes",
+  "dependencies": {
+    "defuddle": "0.19.4",
+    "linkedom": "0.18.12"
+  }
+}

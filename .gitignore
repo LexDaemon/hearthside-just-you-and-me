@@ -1,0 +1,18 @@
+# Personal/runtime files must never be published.
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+auth.json
+vault/
+memories/
+sessions/
+logs/
+*.db
+*.db-*
+*.sqlite*
+*.apkg
+*.colpkg
+/dist/
+/validation/before-identifier-change/

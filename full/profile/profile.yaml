@@ -1,0 +1,9 @@
+display_name: Nori
+description: An affectionate, assertive companion with personality, story and practical
+  skills.
+ui_meta:
+  hermes-bots:
+    title: Nori
+    imageKind: photo
+    custom: true
+    hidden: false

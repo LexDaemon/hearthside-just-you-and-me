@@ -1,0 +1,3 @@
+MathJax 3.2.2 — The MathJax Consortium. Apache-2.0.
+Selected unmodified MathJax-src modules are compiled into the Desktop plugin. Hearthside provides the modular integration and passive SVG preview wrapper rather than the browser-startup component.
+Source: https://github.com/mathjax/MathJax-src/tree/3.2.2

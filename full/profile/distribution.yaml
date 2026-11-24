@@ -1,0 +1,10 @@
+name: nori
+version: 1.0.0
+description: "Hearthside: Just You and Me \u2014 Nori"
+hermes_requires: '>=0.22.5'
+author: Lex Daemon
+distribution_owned:
+- SOUL.md
+- skills
+- profile.yaml
+- assets

@@ -1,0 +1,5 @@
+Invoice Organizer workflow adaptation.
+Source: ComposioHQ/awesome-claude-skills, invoice-organizer.
+Upstream repository declares Apache License 2.0 in its README; this folder contains no separate upstream override.
+Source: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer
+Hearthside adaptation: instructions rewritten for Hermes, preserving originals, explicit write approval, jurisdiction-neutral record handling, traceable extraction, and verified copies. No Composio connector or proprietary service code is bundled.
