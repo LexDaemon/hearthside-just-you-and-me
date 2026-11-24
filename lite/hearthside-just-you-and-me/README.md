@@ -18,4 +18,6 @@ Study collections are kept in profile-scoped plugin storage. Weather uses Open-M
 
 ## License and credits
 
-Created by Lex Daemon. See [LICENSE](LICENSE) and [third-party notices](THIRD_PARTY_NOTICES.md). Open-Meteo supplies weather data. Third-party components retain their licenses and terms. This is an independent project, not an official Nous Research release.
+Created by Lex Daemon. Development assistance: OpenAI models through Hermes Agent, with [Codex](https://github.com/codex) credited on AI-assisted updates. Artwork generation and editing: GPT Image, alongside manual selection, correction, and composition.
+
+See [LICENSE](LICENSE) and [third-party notices](THIRD_PARTY_NOTICES.md). Open-Meteo supplies weather data. Third-party components retain their licenses and terms. This is an independent project, not an official Nous Research release.

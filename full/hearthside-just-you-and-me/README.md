@@ -20,4 +20,6 @@ Weather uses Open-Meteo after you select a city. Remote models, web tools, and o
 
 ## License and credits
 
-Created by Lex Daemon. See [LICENSE](LICENSE) and [third-party notices](THIRD_PARTY_NOTICES.md). Third-party components retain their licenses. This is an independent project, not an official Nous Research release.
+Created by Lex Daemon. Development assistance: OpenAI models through Hermes Agent, with [Codex](https://github.com/codex) credited on AI-assisted updates. Artwork generation and editing: GPT Image, alongside manual selection, correction, and composition.
+
+See [LICENSE](LICENSE) and [third-party notices](THIRD_PARTY_NOTICES.md). Third-party components retain their licenses. This is an independent project, not an official Nous Research release.

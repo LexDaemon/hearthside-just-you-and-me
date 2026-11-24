@@ -26,14 +26,14 @@ python3 install.py --edition full
 
 The installer shows its scope and asks for confirmation. It installs:
 
-- One unified Hearthside package containing its backend, Desktop interface, approved cover and required local images. Hermes pairs its Desktop half with the backend as a single Plugins entry.
+- One unified Hearthside package containing its backend, Desktop interface, cover and required local images. Hermes pairs its Desktop half with the backend as a single Plugins entry.
 - The profile-scoped backend for the default profile and Nori.
 - A dedicated `nori` profile with Nori's identity, native **Nori** name/avatar and 50 skills.
 - A registered Hearthside project containing `Nori.md`, `Room.md`, `Outfits.md`, `Journal.md` and `AGENTS.md`. `SOUL.md` remains at the profile root.
 
 Hermes keeps unified Desktop halves opt-in. On first setup, open Hearthside's card under **Plugins** and turn on its **Desktop** switch if it is off; existing explicit choices are preserved. Then select Nori in Hermes Desktop's Bots roster. If Hermes asks for a model, choose it through Hermes' normal settings. The installer does not read or clone credentials, choose a provider, switch the global active profile or start a conversation.
 
-The approved cover is available offline in both editions. Installed-card artwork appears in Desktop builds that support the optional plugin `image` metadata; other builds keep their standard card without losing Hearthside functionality.
+The cover is available offline in both editions. Installed-card artwork appears in Desktop builds that support the optional plugin `image` metadata; other builds keep their standard card without losing Hearthside functionality.
 
 Backend enablement is saved through Hermes' configuration CLI without restarting or reloading a running gateway. If an existing gateway has not loaded the new backend, apply it through your normal user-controlled restart. Closing only the Desktop window may leave its shared gateway running.
 
@@ -47,7 +47,7 @@ python3 install.py --edition full --profile nori-hearthside
 
 The native Bot's initial display name remains **Nori**. Later name/avatar changes, edited identity/story files, empty documents and a deliberate working directory are preserved on reruns. Updates also retain the installed technical profile name unless you explicitly choose another with `--profile`.
 
-Full saves its project-owner binding in Hearthside's own Desktop data folder. Its document views use that owner even when the conversation is open in another Bot; they do not switch the global profile or create a second project. Lite uses its packaged story without polling for a dedicated project.
+Full keeps its document views connected to Nori's Hearthside project even when you chat with another Bot. Lite uses its included story without creating a dedicated project.
 
 ## Lite
 
@@ -73,17 +73,13 @@ If Lite was installed through Hermes' catalog/Git channel, first remove its code
 
 ## Updating or repairing
 
-### Earlier development identifier
-
-The former development ID was `hearthside-nori`. This build uses a different storage namespace. When the installer detects known code, storage folders or ownership records for that older ID, it stops before installing. It does not silently reset progress, rename personal files or import another namespace. An existing development installation needs a separate, explicit backed-up migration; this installer does not perform that migration automatically. Fresh installations and Full/Lite updates under the new ID use the normal commands below.
-
 Extract a new complete bundle and rerun the same command. Code is backed up; existing and empty profile/story files are not replaced. A previously disabled backend remains disabled on a normal rerun. To enable it deliberately:
 
 ```sh
 python3 install.py --edition full --enable
 ```
 
-An interrupted install preserves the profile and user data rather than deleting them. Read the reported failure before retrying; do not use `--force` on an unrelated profile.
+An interrupted install preserves the profile and user data rather than deleting them. Read the reported failure before retrying.
 
 ## Removing the integration
 

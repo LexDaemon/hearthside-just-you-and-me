@@ -65,6 +65,8 @@ Third-party components retain their own terms; see [third-party notices](THIRD_P
 
 Created by Lex Daemon.
 
-I used OpenAI tools for development assistance and GPT Image for artwork generation and editing, alongside manual selection, correction, and composition.
+I developed Hearthside with assistance from OpenAI models through Hermes Agent, and used GPT Image for artwork generation and editing, alongside manual selection, correction, and composition.
+
+AI-assisted updates credit [Codex](https://github.com/codex) as a commit co-author.
 
 Third-party skills, libraries, and resources retain their licenses and notices. I develop Hearthside independently; this isn't an official Nous Research release.
