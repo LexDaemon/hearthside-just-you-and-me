@@ -29947,7 +29947,7 @@ function NoriSoloDeskTarget({
   });
 }
 const HEARTHSIDE_WELCOME_KEY = 'welcome.v1';
-const HEARTHSIDE_WELCOME_REVISION = "hearthside-1.0.1-full";
+const HEARTHSIDE_WELCOME_REVISION = "hearthside-1.0.0-full";
 function restoreHearthsideWelcome(value) {
   if (!value || value.version !== 1 || !['es', 'en'].includes(value.language)) return {
     version: 1,

@@ -232,7 +232,7 @@ def install(args):
                     resource_target = stage / 'desktop' / rel
                     resource_target.parent.mkdir(parents=True, exist_ok=True)
                     shutil.copyfile(package / 'desktop' / rel, resource_target)
-            write_json(stage/CODE_MARKER,{'owner':ID,'edition':args.edition,'version':'1.0.1','update_channel':'independent-local-installer'})
+            write_json(stage/CODE_MARKER,{'owner':ID,'edition':args.edition,'version':'1.0.0','update_channel':'independent-local-installer'})
             if target.exists():shutil.rmtree(target)
             stage.replace(target);written.append(target)
         for rel in resources:
@@ -244,7 +244,7 @@ def install(args):
             # First explicit install enables its backend; later runs respect a deliberate disable.
             previous_here=next((x for x in previous if x['target']==str(h/'plugins'/ID)),None)
             if args.enable or previous_here is None or previous_here['backup']is None or enabled_before[str(h)]:save_backend_enabled(h)
-        receipt={'owner':ID,'edition':args.edition,'version':'1.0.1','profile':args.profile if args.edition=='full'else None,'project':str(project)if project else None,'desktop_data_dir':str(data),'previous':previous,'backup':str(backup),'resources':resources,'story_binding':binding,'enabled_before':enabled_before,'created_profile':fresh_profile,'active_profile_unchanged':True,'provider_and_credentials_unchanged':True}
+        receipt={'owner':ID,'edition':args.edition,'version':'1.0.0','profile':args.profile if args.edition=='full'else None,'project':str(project)if project else None,'desktop_data_dir':str(data),'previous':previous,'backup':str(backup),'resources':resources,'story_binding':binding,'enabled_before':enabled_before,'created_profile':fresh_profile,'active_profile_unchanged':True,'provider_and_credentials_unchanged':True}
         same_edition=prior_receipt.get('owner')==ID and prior_receipt.get('edition')==args.edition
         receipt['initial_previous']=prior_receipt.get('initial_previous',prior_receipt.get('previous',previous))if same_edition else previous
         receipt['initial_enabled_before']=prior_receipt.get('initial_enabled_before',prior_receipt.get('enabled_before',enabled_before))if same_edition else enabled_before

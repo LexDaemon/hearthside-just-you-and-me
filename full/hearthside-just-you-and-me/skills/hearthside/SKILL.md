@@ -1,7 +1,7 @@
 ---
 name: hearthside
 description: Use when helping with Hearthside's room, study tools or project documents.
-version: 1.0.1
+version: 1.0.0
 author: Lex Daemon
 ---
 

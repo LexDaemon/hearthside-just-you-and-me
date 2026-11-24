@@ -1,10 +1,10 @@
 a0f1449db0d3e4137c92b59824d9fc74b46432bab7f235003bc6c583929d7fba  .gitignore
-af7c5d98d3bdada2a6739af8733d0f7b39847434c2ab2d2d49b30b59447f2fc7  .hearthside-build.json
+d982f4c657ef2299bb03da41a3e4c8ebe4212c3ddc06cc9d786373f251796120  .hearthside-build.json
 3a53b1d18f91647c2cd785f1ab290fe810f6a3f7cdb2b1f455d80596068a50c1  IDEAS.md
 3a8b58e1776c7bd1a1c5f54a5a45b39ee96e31f3e1b275cd1f580c0d50b7e0af  INSTALL.md
 8e83c90e6495c59c4114ef80c25be559e324618cc187684cd8c756402cca7426  LICENSE
 0ad4a0424f9eb6c282d01d814b2cc1d2e9f7b2e26025368158c1ca03d5732ad1  README.md
-56f4db6db521f7cc6b339923f7595774c21d8134b107004e125dac3f2314cd09  RELEASE_NOTES.md
+6c3743ff75ea256d1d4edb1472cd1692fb94dc7007b3c943948310451bb3697b  RELEASE_NOTES.md
 02f7b580f589f3c81e48a2826108520e4abb83451316589481fd7f88df088db3  THIRD_PARTY_NOTICES.md
 3a53b1d18f91647c2cd785f1ab290fe810f6a3f7cdb2b1f455d80596068a50c1  full/hearthside-just-you-and-me/IDEAS.md
 8e83c90e6495c59c4114ef80c25be559e324618cc187684cd8c756402cca7426  full/hearthside-just-you-and-me/LICENSE
@@ -66,7 +66,7 @@ cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30  full/hearthsid
 652117f8555ddfd4de7bfe09cb83ed60a29b6ed8549a8b68c8997dd7401b16c6  full/hearthside-just-you-and-me/dashboard/vendor/mathjax-3.2.2/NOTICE
 b5ad2297eeaac1510cfe6f571832f8ad28523449c5cda5c56f6fea8c8f7528be  full/hearthside-just-you-and-me/dashboard/vendor/mathjax-3.2.2/PROVENANCE.json
 1ca98f25f2dc81916293678d26fedd12d5756c7365540872134899b5d51e4d48  full/hearthside-just-you-and-me/desktop/chat-avatar-assets/usuario-avatar-v01.png
-bb7f82fb3fdd1ef42020cb4e05adea796874acbf39887b96031944f05fda9533  full/hearthside-just-you-and-me/desktop/plugin.js
+3a5f22afa832903bd7948313d7239a8012a39fbae39d8381f02a1f78626dbce8  full/hearthside-just-you-and-me/desktop/plugin.js
 5b2d976c12259717a782322d06016ea64ef3b7152d46be3ff709a5218382d04d  full/hearthside-just-you-and-me/desktop/portrait-assets/nori-sin-verde-v02.webp
 ab1fed61ed1772d97b83e6c4a426b5b6392aeb79fdb83a5b699875fe32d3d7e8  full/hearthside-just-you-and-me/desktop/portrait-assets/usuario-v04.webp
 37eccf8a9f4096bd00959aaa1ea9b87451bafb797e85d00ea106e240ac5bff0c  full/hearthside-just-you-and-me/desktop/pose-assets/bed-empty-tidy-v03.png
@@ -102,12 +102,12 @@ a6a0270d8c9785add5962b5d10ab0dded579b6fd5060d19ed858dfc3dedbeda4  full/hearthsid
 a1fa71c3e47ea28a8964a62c205c8da2f6fef4ea19f7f55c1b9f75285f74f319  full/hearthside-just-you-and-me/desktop/welcome-assets/flower-portrait-v03.png
 5a6465fe601243785df27079df650ea436fe1f321ce37f17ed99e3e8ec072d8c  full/hearthside-just-you-and-me/desktop/welcome-assets/hearthside-logo.png
 39173b3da3d9e03e720dbe8a56a85981f2d7f38c28d577fedd19e91788ea0f29  full/hearthside-just-you-and-me/media/portada.png
-9a2e7769d66624475beb23bfd714689d928ff5bd651fe8904241fc624044df52  full/hearthside-just-you-and-me/plugin.yaml
+7e5560c27d2ce6b70e2b05060942310628dfc4baf3cf64eb8a7bc7f574e897db  full/hearthside-just-you-and-me/plugin.yaml
 cc45cd38024ca9d3fb64b64dfff4b060637b38ee7b0743306b49df7fb4aa1538  full/hearthside-just-you-and-me/runtime-resources.json
-7d199ef4685a65bd763d2e00fa69b8adcc6dbeb69f3766702f8c960b0ee21672  full/hearthside-just-you-and-me/skills/hearthside/SKILL.md
+9bedd40c96012bb8758b8232aa5cdfddde6ddb57bf973694fca8772afc2b2d0a  full/hearthside-just-you-and-me/skills/hearthside/SKILL.md
 d2b1fd472f736c8f763294a9a1b3f3a0ac06a8fb78abb77d0d9656faee6836d9  full/profile/SOUL.md
 348b78a44793ad720980a01ee1f6a8009ba90ce13487a311cc6dc728c08d212a  full/profile/assets/avatar.webp
-73f9a73220daa82ff85689a2d2116ef3f2293d3eeef8d3d2777728a8a2394b1f  full/profile/distribution.yaml
+1134772fbdc6aab248fd305ed6cbfa044ad58105439f2e89fc9e6812235fcd04  full/profile/distribution.yaml
 ca75fc2ef7a2cddfbb1359d7041cce6d9a235df4c2a20484dc0cfbbec3fd6f88  full/profile/profile.yaml
 89f442958cd1c0efb77f5692b90ed8248e511c7c896e33126365096c2d10e00b  full/profile/skills/accessibility/SKILL.md
 c122223ac43e86421958e18623979942c21b642951e2e3736dcb63eff13587c3  full/profile/skills/accessibility/UPSTREAM-LICENSE.txt
@@ -403,7 +403,7 @@ d0edf854b5d39e22da68793603830e5bbdddb9266d272007993bcb821ba2799d  full/profile/s
 4e95af48209babb9cc952871b58eb509887bfd9c0019150440ddbae7f453aa85  full/project-templates/Nori.md
 32aac26199fb46239fea0d46e2e5a08e0548f75d088bf2854f0a07f9fb2bec5f  full/project-templates/Outfits.md
 2e8feeb0131d2140ba9f2fba064ff4e06a679d24ee07b3f925e7d3fb214344b5  full/project-templates/Room.md
-d360e852c081b6803271d6cda07cfec41864b2b0ac59fa3cb0253a1c28c95dec  install.py
+c32ce9f8628da32cdc0b6b6782c5cba487bbcf749fae3d7544732556ea15d177  install.py
 8e83c90e6495c59c4114ef80c25be559e324618cc187684cd8c756402cca7426  lite/hearthside-just-you-and-me/LICENSE
 ed8cf43ef45b9f3daa05d70ddaa0f0a0bdae94bec3cabc959e707f7511dc450d  lite/hearthside-just-you-and-me/README.md
 3dd4588c92f5f59de9b732464a84d679690e58d413d33c7a4fd286ed484771f1  lite/hearthside-just-you-and-me/THIRD_PARTY_NOTICES.md
@@ -463,7 +463,7 @@ cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30  lite/hearthsid
 652117f8555ddfd4de7bfe09cb83ed60a29b6ed8549a8b68c8997dd7401b16c6  lite/hearthside-just-you-and-me/dashboard/vendor/mathjax-3.2.2/NOTICE
 b5ad2297eeaac1510cfe6f571832f8ad28523449c5cda5c56f6fea8c8f7528be  lite/hearthside-just-you-and-me/dashboard/vendor/mathjax-3.2.2/PROVENANCE.json
 1ca98f25f2dc81916293678d26fedd12d5756c7365540872134899b5d51e4d48  lite/hearthside-just-you-and-me/desktop/chat-avatar-assets/usuario-avatar-v01.png
-ca31d78b97da838539497122c9ca29ea2c9170bd5f744f70abfd04d276fea6bf  lite/hearthside-just-you-and-me/desktop/plugin.js
+a3f24a5fcfc30f86f0df1ae76cb48f75c776cfa3bfaa040f579b5fb3f3199fa0  lite/hearthside-just-you-and-me/desktop/plugin.js
 5b2d976c12259717a782322d06016ea64ef3b7152d46be3ff709a5218382d04d  lite/hearthside-just-you-and-me/desktop/portrait-assets/nori-sin-verde-v02.webp
 ab1fed61ed1772d97b83e6c4a426b5b6392aeb79fdb83a5b699875fe32d3d7e8  lite/hearthside-just-you-and-me/desktop/portrait-assets/usuario-v04.webp
 37eccf8a9f4096bd00959aaa1ea9b87451bafb797e85d00ea106e240ac5bff0c  lite/hearthside-just-you-and-me/desktop/pose-assets/bed-empty-tidy-v03.png
@@ -499,9 +499,9 @@ a6a0270d8c9785add5962b5d10ab0dded579b6fd5060d19ed858dfc3dedbeda4  lite/hearthsid
 a1fa71c3e47ea28a8964a62c205c8da2f6fef4ea19f7f55c1b9f75285f74f319  lite/hearthside-just-you-and-me/desktop/welcome-assets/flower-portrait-v03.png
 5a6465fe601243785df27079df650ea436fe1f321ce37f17ed99e3e8ec072d8c  lite/hearthside-just-you-and-me/desktop/welcome-assets/hearthside-logo.png
 39173b3da3d9e03e720dbe8a56a85981f2d7f38c28d577fedd19e91788ea0f29  lite/hearthside-just-you-and-me/media/portada.png
-9a2e7769d66624475beb23bfd714689d928ff5bd651fe8904241fc624044df52  lite/hearthside-just-you-and-me/plugin.yaml
+7e5560c27d2ce6b70e2b05060942310628dfc4baf3cf64eb8a7bc7f574e897db  lite/hearthside-just-you-and-me/plugin.yaml
 cc45cd38024ca9d3fb64b64dfff4b060637b38ee7b0743306b49df7fb4aa1538  lite/hearthside-just-you-and-me/runtime-resources.json
-7d199ef4685a65bd763d2e00fa69b8adcc6dbeb69f3766702f8c960b0ee21672  lite/hearthside-just-you-and-me/skills/hearthside/SKILL.md
+9bedd40c96012bb8758b8232aa5cdfddde6ddb57bf973694fca8772afc2b2d0a  lite/hearthside-just-you-and-me/skills/hearthside/SKILL.md
 b7984e81ae11c29f4d50f0b32e377555c1a9777c8bb10a1f2db52412cd7fe2bd  media/nori-avatar.png
 39173b3da3d9e03e720dbe8a56a85981f2d7f38c28d577fedd19e91788ea0f29  media/portada.png
 a96cb2c50da96fd1a0f99b43c4827650dcfc42a6f3f030b0ad50a7fa9715e297  media/screenshots/hearthside-focus-garden.png
