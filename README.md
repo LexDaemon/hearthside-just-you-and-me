@@ -52,6 +52,7 @@ If you find a bug, open an Issue with your operating system, Hermes and Hearthsi
 
 I want to keep growing Hearthside. Your support helps cover development, testing, and the tools behind it, giving me more room to polish the experience and explore [new features](IDEAS.md). Feedback helps shape that direction, too.
 
+- [Ko-fi — voluntary support](https://ko-fi.com/lexdaemon)
 - [NanoGPT — referral link](https://nano-gpt.com/r/8zYfPmNX)
 - [Nous Portal — referral link](https://portal.nousresearch.com/r/lexdaemon)
 
